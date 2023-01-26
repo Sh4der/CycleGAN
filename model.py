@@ -13,17 +13,6 @@ import random
 
 from layers import *
 
-img_height = 256
-img_width = 256
-img_layer = 3
-img_size = img_height * img_width
-
-
-batch_size = 1
-pool_size = 50
-ngf = 32
-ndf = 64
-
 
 
 
